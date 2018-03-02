@@ -1,1 +1,2 @@
-echo # CaffeAndroidLib_ImageTest1
+Caffe-Android-lib
+caffe/android
